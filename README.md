@@ -26,4 +26,5 @@ untar_data(URLs.ML_SAMPLE)
 collab_learner(data, n_factors=40, y_range=y_range, wd=1e-01)
 ```
 **Recommendation of the Model**
+
 ![Image](https://res.cloudinary.com/dge89aqpc/image/upload/v1595591790/Zoom_tahofz.png)
